@@ -1,6 +1,6 @@
-
-master file
-
+<<<<<<< HEAD
+this is master file
+=======
 this is my first branch file
 brnach1 is clone of master file
-
+>>>>>>> branch1
