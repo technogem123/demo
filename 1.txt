@@ -1,1 +1,2 @@
 this is my first git master file
+This is branch3 file for testing only
